@@ -1,0 +1,39 @@
+
+body {
+  background: url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1050&q=80') no-repeat center center fixed;
+  background-size: cover;
+  color: #fff;
+  font-family: Tahoma, sans-serif;
+  padding: 2rem;
+  text-align: center;
+}
+
+.box {
+  background-color: rgba(0, 0, 0, 0.6);
+  border-radius: 12px;
+  padding: 1.5rem;
+  max-width: 600px;
+  margin: auto;
+  box-shadow: 0 0 10px rgba(0,0,0,0.4);
+}
+
+h1 {
+  color: #00ffaa;
+}
+
+button {
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  border: none;
+  background: #00ffaa;
+  color: #000;
+  font-weight: bold;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.credit {
+  margin-top: 2rem;
+  font-size: 0.9rem;
+  color: #ddd;
+}
